@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "external")(type "KiCad")(uri "${KIPRJMOD}/external")(options "")(descr ""))
+  (lib (name "NFC_Antenna")(type "KiCad")(uri "${KIPRJMOD}/external/NFC_Antenna.pretty")(options "")(descr ""))
+)
